@@ -1,0 +1,4 @@
+0,1,1,Concluido,15,oleo
+1,1,2,Entregue,200,oleo
+0,2,3,Aceitar,null,null
+0,3,3,Aceitar,null,null
